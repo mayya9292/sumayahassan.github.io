@@ -1,4 +1,4 @@
-![Profile picture of Feranmi Abiodun Adeagbo](images/port_profile_picture.jpg)
+![Profile picture of Sumaya Hassan](Images/sumaya.png)
 
 ### About Sumaya Hassan
 
@@ -7,7 +7,7 @@ I am a Data Scientist with expertise in predictive analytics, AI, and data engin
 
 ### Projects by Sumaya Hassan 
 
-
+![Profile picture of Sumaya Hassan](Images/sumaya.png)
 - #### Sustainable Energy Transformation
 
 The "Spain Electricity Shortfall Challenge" project is dedicated to analyzing energy generation patterns in Spain, focusing on renewable and fossil fuel sources. Our primary objective is to develop a precise machine learning model that predicts energy demand shortfalls, providing crucial insights for Spain's renewable energy investments.
