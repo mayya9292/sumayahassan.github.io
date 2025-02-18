@@ -18,7 +18,7 @@ The "Spain Electricity Shortfall Challenge" project is dedicated to analyzing en
 
 The "Employee Absenteeism Analysis" project revolves around studying employee absenteeism patterns to enhance workplace productivity and attendance. Our core aim is to identify key factors contributing to absenteeism and provide actionable recommendations for improved workforce management.
 
-![Profile picture of Sumaya Hassan](Images/appolinary-kalashnikova-WYGhTLym344-unsplash.jpg)
+![Profile picture of Sumaya Hassan](Images/felix-mooneeram-evlkOfkQ5rE-unsplash.jpg)
 
 - #### Movie Recommender System
 
