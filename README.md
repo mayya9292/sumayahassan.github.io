@@ -30,9 +30,9 @@ The "Climate Change Sentiment Classification" project's primary objective is to 
 
 ### Contact
 
-- *Email:* [adeagboferanmi@gmail.com](mailto:adeagboferanmi@gmail.com)
-- *LinkedIn:* [Connect with me](https://www.linkedin.com/in/abiodun-oluwaferanmi-adeagbo/)
-- *URL:* [My Portfolio](https://feranmiabiodun.github.io)
+- *Email:* [sumayahassan1@gmail.com](mailto:sumayahassan1@gmail.com)
+- *LinkedIn:* [Connect with me](https://www.linkedin.com/in/sumayah-hassan/)
+- *URL:* [My Portfolio](https://sumayahassan.github.io)
 
 ### Skills
 - *Technical Skills*
