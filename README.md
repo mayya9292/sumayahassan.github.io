@@ -24,7 +24,7 @@ The "Employee Absenteeism Analysis" project revolves around studying employee ab
 
 The "Movie Recommender System" project focuses on developing a recommendation engine capable of suggesting movies to users based on their preferences and viewing history. The primary objective is to enhance user engagement and satisfaction by delivering personalized movie recommendations, thus improving the overall user experience.
 
-![Profile picture of Sumaya Hassan](Images/appolinary-kalashnikova-WYGhTLym344-unsplash.jpg)
+![Profile picture of Sumaya Hassan](Images/frank-mckenna-tjX_sniNzgQ-unsplash.jpg)
 
 - #### Supply Chain Logistics Optimization 
 
