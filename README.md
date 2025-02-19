@@ -1,4 +1,4 @@
-![Profile picture of Sumaya Hassan](Images/sumaya.png)
+![Profile picture of Sumaya Hassan](Images/PIC.jpg)
 
 ### About Sumaya Hassan
 
