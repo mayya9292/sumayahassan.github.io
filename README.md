@@ -65,7 +65,7 @@ The "Climate Change Sentiment Classification" initiative aimed to develop a mach
 
 - *Email:* [sumayahassan1@gmail.com](mailto:sumayahassan1@gmail.com)
 - *LinkedIn:* [Connect with me](https://www.linkedin.com/in/sumayah-hassan/)
-- *URL:* [My Portfolio](https://sumayahassan.github.io)
+- *URL:* [My Portfolio](https://github.com/sumayahhassan/profile)
 
 ### Skills
 - *Technical Skills*
